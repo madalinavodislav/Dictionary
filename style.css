@@ -1,0 +1,28 @@
+* {
+    margin: 0;
+    padding: 0;
+}
+
+#btnClear {
+    width: 100%;
+}
+
+.list-group-item {
+    cursor: pointer;
+}
+
+body {
+    background-image: url(./background.jpg);
+    background-size: 100%;
+}
+
+#message {
+    color: black;
+    background-color: white;
+    font-size: 20px;
+    text-align: center;
+}
+
+#btnAddWords {
+    display: none;
+}
